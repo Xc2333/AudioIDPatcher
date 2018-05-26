@@ -18,7 +18,7 @@ clear
 #get layout id
 function ingectid(){
 echo "#####################################################"
-read -p "请输入你要注入的的声卡layout id (1-99) :" layoutid
+read -p "请输入你要注入的的声卡layout id  :" layoutid
 cd  ~/Desktop
 
 #generate SSDT-HDEF.aml
