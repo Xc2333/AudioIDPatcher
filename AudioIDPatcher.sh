@@ -59,7 +59,7 @@ END
 #SSDT-HDEF.dsl->SSDT-HDEF.aml
 iasl SSDT-HDEF.dsl
 
-#remove SSDT-HDEF.ds
+#remove SSDT-HDEF.dsl
 rm  SSDT-HDEF.dsl
 
 #clean screen
